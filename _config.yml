@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Invader Mycelium"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/img/mushishi(1).png"
   bio              : "Garden of Knowledge. Evidence of the practical application of acquired theory"
   location         : "Earth"
   email            :
