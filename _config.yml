@@ -25,8 +25,8 @@ description              : "Garden of Knowledge. Evidence of the practical appli
 url                      : "https://invader-mycelium.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "invader-mycelium.github.io/invader-mycelium"
-teaser                   : "assets/img/mushishi(1).png"
-logo                     : "assets/img/mushishi(1).png"
+teaser                   : "assets/img/mushishi (1).jpg"
+logo                     : "assets/img/mushishi (1).jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Invader Mycelium"
-  avatar           : "assets/img/mushishi(1).png"
+  avatar           : "assets/img/mushishi (1).jpg"
   bio              : "Garden of Knowledge. Evidence of the practical application of acquired theory"
   location         : "Earth"
   email            :
